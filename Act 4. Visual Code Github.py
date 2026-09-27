@@ -1,5 +1,5 @@
 #A partir del código anterior, realiza una versión para números con decimales
-
+#Programa que mustra la suma de dos valores decimales introducidos
 variable1 = float(input("Introduce el primer número decimal: "))
 variable2 = float(input("Introduce el segundo número decimal: "))
 
