@@ -1,5 +1,5 @@
 # Introduce por teclado dos números y muestre por pantalla la siguiente información: cociente, resto y si el dividendo es par o impar.
-# Programa que mu
+# Programa que muestre por pantalla el resto y el cociente de 2 numeros y que indique si el dividendo es par o impar
 variable1 = float(input("Introduce el dividendo: "))
 variable2 = float(input("Introduce el divisor: "))
 if variable1 % 2 == 0:
